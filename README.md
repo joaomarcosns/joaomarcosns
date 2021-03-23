@@ -28,3 +28,6 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 <a href="https://www.linkedin.com/in/joao-marcos-7a2a39173/">
   <img align="left" alt="Linkedin de Cláudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="mailto:joaomarcosnina@gmail.com">
+  <img align="left"  alt="Linkedin de Cláudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+</a>
