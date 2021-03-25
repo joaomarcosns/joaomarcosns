@@ -13,6 +13,7 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 - [x] PostgreSQL
 - [x] MySQL
 - [x] C
+
 **Estudando :**
 - JavaScript
 - React
