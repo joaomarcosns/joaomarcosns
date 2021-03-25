@@ -22,7 +22,6 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 - [ ] C#
 - [ ]  Docker
 - [ ]  .NET
-- [ ] React Native
 
 ## Redes sociais
 <a href="https://www.linkedin.com/in/joao-marcos-7a2a39173/">
