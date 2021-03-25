@@ -7,12 +7,12 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ## Linguagens e ferramentas:  
 **Com experiência razoável :**
 <img align="right" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif?raw=true" width="500" height="320" />
-- [x]  Java
+- [x] Java
 - [x] Django
 - [x] Python
 - [x] PostgreSQL
 - [x] MySQL
-
+- [x] C
 **Estudando :**
 - JavaScript
 - React
