@@ -18,6 +18,8 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 - JavaScript
 - React
 - React Native
+- php
+- Laravel
 
 **Ainda estudar:**
 - [ ] C#
