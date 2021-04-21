@@ -23,6 +23,7 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 - React Native
 - php
 - Laravel
+- IoT
 
 **Ainda estudar:**
 - [ ] C#
