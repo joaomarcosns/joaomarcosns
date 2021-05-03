@@ -4,7 +4,7 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ## Estatísticas 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOaOMARcosNs&show_icons=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOaOMARcosNs&layout=compact&theme=gotham&card_width=445)
-## Linguagens e ferramentas:  
+## Linguagens, metodologia e ferramentas:  
 **Com experiência razoável :**
 <img align="right" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif?raw=true" width="500" height="320" />
 - [x] Java
@@ -16,6 +16,7 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 - [x] Html
 - [x] css
 - [x] Bootstrap
+- [x] Scrum 
 
 **Estudando :**
 - JavaScript
