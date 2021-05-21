@@ -21,17 +21,15 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ![Scrum ](https://img.shields.io/badge/%20scrum-141321?style=for-the-badge&logo=scrum&logoColor=777BB4)
 
 **Estudando :**
-- JavaScript
-- React
-- React Native
-- php
-- Laravel
-- IoT
+![JAVASCRIPT ](https://img.shields.io/badge/%20JavaScript-141321?style=for-the-badge&logo=JavaScript&logoColor=777BB4)
+![React ](https://img.shields.io/badge/%20React-141321?style=for-the-badge&logo=React&logoColor=777BB4)
+![PHP](https://img.shields.io/badge/%20php-141321?style=for-the-badge&logo=php&logoColor=777BB4) 
+![Laravel ](https://img.shields.io/badge/%20Laravel-141321?style=for-the-badge&logo=Laravel&logoColor=777BB4)
+![IOT](https://img.shields.io/badge/%20iot-141321?style=for-the-badge&logo=iot&logoColor=777BB4)
 
 **Ainda estudar:**
-- [ ] C#
-- [ ]  Docker
-- [ ]  .NET
+![DOCKER (shields.io)](https://img.shields.io/badge/%20docker-141321?style=for-the-badge&logo=docker&logoColor=777BB4)
+
 
 ## Redes sociais
 <a href="https://www.linkedin.com/in/joao-marcos-7a2a39173/">
