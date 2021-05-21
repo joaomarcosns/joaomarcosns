@@ -21,6 +21,9 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ![Scrum ](https://img.shields.io/badge/%20scrum-141321?style=for-the-badge&logo=scrum&logoColor=777BB4)
 
 **Estudando :**
+
+ 
+ 
 ![JAVASCRIPT ](https://img.shields.io/badge/%20JavaScript-141321?style=for-the-badge&logo=JavaScript&logoColor=777BB4)
 ![React ](https://img.shields.io/badge/%20React-141321?style=for-the-badge&logo=React&logoColor=777BB4)
 ![PHP](https://img.shields.io/badge/%20php-141321?style=for-the-badge&logo=php&logoColor=777BB4) 
@@ -28,6 +31,9 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ![IOT](https://img.shields.io/badge/%20iot-141321?style=for-the-badge&logo=iot&logoColor=777BB4)
 
 **Ainda estudar:**
+
+ 
+ 
 ![DOCKER (shields.io)](https://img.shields.io/badge/%20docker-141321?style=for-the-badge&logo=docker&logoColor=777BB4)
 
 
