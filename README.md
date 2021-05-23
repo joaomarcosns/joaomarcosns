@@ -9,10 +9,10 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 
 <img align="right" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif?raw=true" width="500" height="320" />
 ## Linguagens, metodologia e ferramentas:  
+
 **Com experiência razoável :**
 
- 
- ![Java](https://img.shields.io/badge/%20java-141321?style=for-the-badge&logo=java&logoColor=777BB4)
+![Java](https://img.shields.io/badge/%20java-141321?style=for-the-badge&logo=java&logoColor=777BB4)
 ![Django](https://img.shields.io/badge/%20django-141321?style=for-the-badge&logo=django&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/%20python-141321?style=for-the-badge&logo=python)
 ![Postgresql](https://img.shields.io/badge/%20postgresql-141321?style=for-the-badge&logo=postgresql&logoColor=31648C) 
