@@ -36,7 +36,7 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ![PHP](https://img.shields.io/badge/%20php-141321?style=for-the-badge&logo=php&logoColor=777BB4) 
 ![Laravel ](https://img.shields.io/badge/%20Laravel-141321?style=for-the-badge&logo=Laravel&logoColor=777BB4)
 ![IOT](https://img.shields.io/badge/%20iot-141321?style=for-the-badge&logo=iot&logoColor=777BB4)
-
+![Typescript](https://img.shields.io/badge/typescript-141321?style=for-the-badge&logo=typescript&logoColor=777BB4)
 
 **Ainda estudar:**
 
