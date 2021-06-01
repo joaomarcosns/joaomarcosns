@@ -23,11 +23,12 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ![Scrum ](https://img.shields.io/badge/%20scrum-141321?style=for-the-badge&logo=scrum&logoColor=777BB4)
 ![Github](https://img.shields.io/badge/%20github-141321?style=for-the-badge&logo=github&logoColor=777BB4)
 ![Gitlab](https://img.shields.io/badge/%20gitlab-141321?style=for-the-badge&logo=gitlab&logoColor=777BB4)
+![Figma](https://img.shields.io/badge/figma-141321?style=for-the-badge&logo=figma&logoColor=777BB4)
 
 **Estudando :**
 
  
- 
+![Node.js](https://img.shields.io/badge/node.js-141321?style=for-the-badge&logo=node-dot-js&logoColor=777BB4)
 ![JAVASCRIPT ](https://img.shields.io/badge/%20JavaScript-141321?style=for-the-badge&logo=JavaScript&logoColor=777BB4)
 ![React ](https://img.shields.io/badge/%20React-141321?style=for-the-badge&logo=React&logoColor=777BB4)
 ![PHP](https://img.shields.io/badge/%20php-141321?style=for-the-badge&logo=php&logoColor=777BB4) 
