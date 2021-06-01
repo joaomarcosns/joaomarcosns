@@ -32,12 +32,13 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ![Laravel ](https://img.shields.io/badge/%20Laravel-141321?style=for-the-badge&logo=Laravel&logoColor=777BB4)
 ![IOT](https://img.shields.io/badge/%20iot-141321?style=for-the-badge&logo=iot&logoColor=777BB4)
 
+
 **Ainda estudar:**
 
  
  
 ![DOCKER (shields.io)](https://img.shields.io/badge/%20docker-141321?style=for-the-badge&logo=docker&logoColor=777BB4)
-
+![MongoDB](https://img.shields.io/badge/%20MongoDB-141321?style=for-the-badge&logo=MongoDB&logoColor=777BB4)
 
 ## Redes sociais
 <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-neves-da-silva-7a2a39173/">
