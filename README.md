@@ -26,6 +26,7 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ![Github](https://img.shields.io/badge/%20github-141321?style=for-the-badge&logo=github&logoColor=777BB4)
 ![Gitlab](https://img.shields.io/badge/%20gitlab-141321?style=for-the-badge&logo=gitlab&logoColor=777BB4)
 ![Figma](https://img.shields.io/badge/figma-141321?style=for-the-badge&logo=figma&logoColor=777BB4)
+![Heroku](https://img.shields.io/badge/heroku-141321?style=for-the-badge&logo=heroku&logoColor=777BB4)
 
 **Estudando :**
 
@@ -37,6 +38,8 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ![Laravel ](https://img.shields.io/badge/%20Laravel-141321?style=for-the-badge&logo=Laravel&logoColor=777BB4)
 ![IOT](https://img.shields.io/badge/%20iot-141321?style=for-the-badge&logo=iot&logoColor=777BB4)
 ![Typescript](https://img.shields.io/badge/typescript-141321?style=for-the-badge&logo=typescript&logoColor=777BB4)
+![AWS](https://img.shields.io/badge/AWS-141321?style=for-the-badge&logo=amazon-aws&logoColor=777BB4)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-141321?style=for-the-badge&logo=google-cloud&logoColor=777BB4)
 
 **Ainda estudar:**
 
