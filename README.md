@@ -28,6 +28,7 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ![Figma](https://img.shields.io/badge/figma-141321?style=for-the-badge&logo=figma&logoColor=777BB4)
 ![Heroku](https://img.shields.io/badge/heroku-141321?style=for-the-badge&logo=heroku&logoColor=777BB4)
 ![R](https://img.shields.io/badge/R-141321?style=for-the-badge&logo=r&logoColor=777BB4)
+![Pandas](https://img.shields.io/badge/Pandas-141321?style=for-the-badge&logo=pandas&logoColor=777BB4)
 
 **Estudando :**
 
