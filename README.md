@@ -13,52 +13,51 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 
 **Com experiência razoável :**
 
-![Java](https://img.shields.io/badge/%20java-141321?style=for-the-badge&logo=java&logoColor=777BB4)
-![Django](https://img.shields.io/badge/%20django-141321?style=for-the-badge&logo=django&logoColor=777BB4)
+![Java](https://img.shields.io/badge/%20java-141321?style=for-the-badge&logo=java)
+![PHP](https://img.shields.io/badge/%20PHP-141321?style=for-the-badge&logo=php)
+![jQuery](https://img.shields.io/badge/jQuery-141321?style=for-the-badge&logo=jquery)
+![Laravel](https://img.shields.io/badge/%20Laravel-141321?style=for-the-badge&logo=laravel)
+![Django](https://img.shields.io/badge/%20django-141321?style=for-the-badge&logo=django)
 ![Python](https://img.shields.io/badge/%20python-141321?style=for-the-badge&logo=python)
-![Postgresql](https://img.shields.io/badge/%20postgresql-141321?style=for-the-badge&logo=postgresql&logoColor=31648C) 
+![Postgresql](https://img.shields.io/badge/%20postgresql-141321?style=for-the-badge&logo=postgresql) 
 ![MySQL](https://img.shields.io/badge/%20mysql-141321?style=for-the-badge&logo=mysql) 
-![C](https://img.shields.io/badge/%20c-141321?style=for-the-badge&logo=c&logoColor=777BB4)
 ![HTML5](https://img.shields.io/badge/%20html-141321?style=for-the-badge&logo=html5) 
-![CSS](https://img.shields.io/badge/%20css-141321?style=for-the-badge&logo=css3&logoColor=31A1D6) 
-![BOOTSTRAP ](https://img.shields.io/badge/%20bootstrap-141321?style=for-the-badge&logo=bootstrap&logoColor=777BB4)
-![Scrum ](https://img.shields.io/badge/%20scrum-141321?style=for-the-badge&logo=scrum&logoColor=777BB4)
-![Github](https://img.shields.io/badge/%20github-141321?style=for-the-badge&logo=github&logoColor=777BB4)
-![Gitlab](https://img.shields.io/badge/%20gitlab-141321?style=for-the-badge&logo=gitlab&logoColor=777BB4)
-![Figma](https://img.shields.io/badge/figma-141321?style=for-the-badge&logo=figma&logoColor=777BB4)
-![Heroku](https://img.shields.io/badge/heroku-141321?style=for-the-badge&logo=heroku&logoColor=777BB4)
-![R](https://img.shields.io/badge/R-141321?style=for-the-badge&logo=r&logoColor=777BB4)
-![Pandas](https://img.shields.io/badge/Pandas-141321?style=for-the-badge&logo=pandas&logoColor=777BB4)
+![CSS3](https://img.shields.io/badge/%20css-141321?style=for-the-badge&logo=css3) 
+![BOOTSTRAP](https://img.shields.io/badge/%20bootstrap-141321?style=for-the-badge&logo=bootstrap)
+![Scrum](https://img.shields.io/badge/%20scrum-141321?style=for-the-badge&logo=scrum)
+![kanbun](https://img.shields.io/badge/%20kanbun-141321?style=for-the-badge&logo=kanbun)
+![Git](https://img.shields.io/badge/%20git-141321?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/%20github-141321?style=for-the-badge&logo=github)
+![Gitlab](https://img.shields.io/badge/%20gitlab-141321?style=for-the-badge&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-141321?style=for-the-badge&logo=bitbucket)
+![Android](https://img.shields.io/badge/Android-141321?style=for-the-badge&logo=android)
+
 
 **Estudando :**
 
- 
-![Node.js](https://img.shields.io/badge/node.js-141321?style=for-the-badge&logo=node-dot-js&logoColor=777BB4)
-![JAVASCRIPT ](https://img.shields.io/badge/%20JavaScript-141321?style=for-the-badge&logo=JavaScript&logoColor=777BB4)
-![React ](https://img.shields.io/badge/%20React-141321?style=for-the-badge&logo=React&logoColor=777BB4)
-![PHP](https://img.shields.io/badge/%20php-141321?style=for-the-badge&logo=php&logoColor=777BB4) 
-![Laravel ](https://img.shields.io/badge/%20Laravel-141321?style=for-the-badge&logo=Laravel&logoColor=777BB4)
-![IOT](https://img.shields.io/badge/%20iot-141321?style=for-the-badge&logo=iot&logoColor=777BB4)
-![Typescript](https://img.shields.io/badge/typescript-141321?style=for-the-badge&logo=typescript&logoColor=777BB4)
-![AWS](https://img.shields.io/badge/AWS-141321?style=for-the-badge&logo=amazon-aws&logoColor=777BB4)
-![GoogleCloud](https://img.shields.io/badge/GoogleCloud-141321?style=for-the-badge&logo=google-cloud&logoColor=777BB4)
+![Node.js](https://img.shields.io/badge/Node.js-141321?style=for-the-badge&logo=nodedotjs)
+![JAVASCRIPT](https://img.shields.io/badge/%20JavaScript-141321?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/%20React-141321?style=for-the-badge&logo=React)
+![IOT](https://img.shields.io/badge/%20iot-141321?style=for-the-badge&logo=iot)
+![Typescript](https://img.shields.io/badge/typescript-141321?style=for-the-badge&logo=typescript)
+![AWS](https://img.shields.io/badge/AWS-141321?style=for-the-badge&logo=amazon-aws)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-141321?style=for-the-badge&logo=google-cloud)
 
 
 **Ainda estudar:**
 
- 
- 
-![DOCKER (shields.io)](https://img.shields.io/badge/%20docker-141321?style=for-the-badge&logo=docker&logoColor=777BB4)
-![MongoDB](https://img.shields.io/badge/%20MongoDB-141321?style=for-the-badge&logo=MongoDB&logoColor=777BB4)
+![DOCKER](https://img.shields.io/badge/%20docker-141321?style=for-the-badge&logo=docker)
+![MongoDB](https://img.shields.io/badge/%20MongoDB-141321?style=for-the-badge&logo=MongoDB)
+![kubernetes](https://img.shields.io/badge/kubernetes-141321.svg?&style=for-the-badge&logo=kubernetes)
 
 ## Redes sociais
 <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-neves-da-silva-7a2a39173/">
-    <img src="https://img.shields.io/badge/linkedin%20-141321?style=for-the-badge&logo=linkedin&logoColor=777BB4" alt="linkedin JOÃO-MARCOS"/>
+    <img src="https://img.shields.io/badge/linkedin%20-141321?style=for-the-badge&logo=linkedin" alt="linkedin JOÃO-MARCOS"/>
 </a>
 <a href="mailto:joaomarcosnina@gmail.com">
-  <img src="https://img.shields.io/badge/gmail%20-141321?style=for-the-badge&logo=gmail&logoColor=777BB4" alt="Gmail JOÃO-MARCOS"/>
+  <img src="https://img.shields.io/badge/gmail%20-141321?style=for-the-badge&logo=gmail" alt="Gmail JOÃO-MARCOS"/>
 </a>
 <a href="mailto:joaomarcos_iga@hotmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-141321?style=for-the-badge&logo=microsoft-outlook&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-141321?style=for-the-badge&logo=microsoft-outlook"/>
 </a>
 
