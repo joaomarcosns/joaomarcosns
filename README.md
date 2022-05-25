@@ -15,7 +15,7 @@ Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de
 ## Linguagens, metodologia e ferramentas:  
 
 
-**Com experiência razoável :**
+**Com experiência:**
 
 ![Java](https://img.shields.io/badge/%20java-141321?style=for-the-badge&logo=java)
 ![PHP](https://img.shields.io/badge/%20PHP-141321?style=for-the-badge&logo=php)
