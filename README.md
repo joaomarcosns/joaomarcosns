@@ -1,5 +1,5 @@
 ![alt](https://i.imgur.com/4S1C0d7.png)
-Olá, me chamo João Marcos Neves da Silva, estudo análise e desenvolvimento de sistemas (Ads) no Instituto Federal de Educação, Ciência e Tecnologia Baiano, Campus Guanambi. Atualmente cursando 3 semestre.
+Olá! Eu sou o João Marcos Neves da Silva, estudo análise e desenvolvimento de sistemas (ADS) no Instituto Federal de Educação, Ciência e Tecnologia Baiano, Campus Guanambi. Atualmente cursando 3 semestre.
 ## Estatísticas 
 
 <p align="center">
