@@ -1,64 +1,58 @@
-![alt](https://i.imgur.com/4S1C0d7.png)
-Olá! Eu sou o João Marcos Neves da Silva, estudo análise e desenvolvimento de sistemas (ADS) no Instituto Federal de Educação, Ciência e Tecnologia Baiano, Campus Guanambi. Atualmente cursando 3 semestre.
-## Estatísticas 
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaomarcosns.joaomarcosns&left_color=silver&right_color=black"  />
+</div>
 
-<p align="center">
-<a href="https://github.com/joaomarcosns">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JOaOMARcosNs&show_icons=true&theme=gotham"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOaOMARcosNs&theme=gotham"/>
-</a>
-</p>
+###
 
-## Linguagens, metodologia e ferramentas:  
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/a6d7c93c7858383fc7aa1b088c42ea991c31446829a5a60552d1b04b92246ad8/68747470733a2f2f692e696d6775722e636f6d2f345331433064372e706e67"  />
+</div>
 
+###
 
-**Com experiência:**
+<h5 align="left">- 👨‍💻 Atualmente estou trabalhando no desenvolvimento com o framework Laravel, Bootstrap,  Jquery e Ajax<br>- 📚 Atualmente estou aprendendo sobre React e Django rest framework😅<br>- 💪🏼 Metas futuras: aprender mais tecnologias e novas linguas</h5>
 
-![Java](https://img.shields.io/badge/%20java-141321?style=for-the-badge&logo=java)
-![PHP](https://img.shields.io/badge/%20PHP-141321?style=for-the-badge&logo=php)
-![jQuery](https://img.shields.io/badge/jQuery-141321?style=for-the-badge&logo=jquery)
-![Laravel](https://img.shields.io/badge/%20Laravel-141321?style=for-the-badge&logo=laravel)
-![Django](https://img.shields.io/badge/%20django-141321?style=for-the-badge&logo=django)
-![Python](https://img.shields.io/badge/%20python-141321?style=for-the-badge&logo=python)
-![Postgresql](https://img.shields.io/badge/%20postgresql-141321?style=for-the-badge&logo=postgresql) 
-![MySQL](https://img.shields.io/badge/%20mysql-141321?style=for-the-badge&logo=mysql) 
-![HTML5](https://img.shields.io/badge/%20html-141321?style=for-the-badge&logo=html5) 
-![CSS3](https://img.shields.io/badge/%20css-141321?style=for-the-badge&logo=css3) 
-![BOOTSTRAP](https://img.shields.io/badge/%20bootstrap-141321?style=for-the-badge&logo=bootstrap)
-![Scrum](https://img.shields.io/badge/%20scrum-141321?style=for-the-badge&logo=scrum)
-![kanbun](https://img.shields.io/badge/%20kanbun-141321?style=for-the-badge&logo=kanbun)
-![Git](https://img.shields.io/badge/%20git-141321?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/%20github-141321?style=for-the-badge&logo=github)
-![Gitlab](https://img.shields.io/badge/%20gitlab-141321?style=for-the-badge&logo=gitlab)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-141321?style=for-the-badge&logo=bitbucket)
-![Android](https://img.shields.io/badge/Android-141321?style=for-the-badge&logo=android)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=joaomarcosns" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=joaomarcosns" height="150" alt="languages graph"  />
+</div>
 
-**Estudando :**
+###
 
-![Node.js](https://img.shields.io/badge/Node.js-141321?style=for-the-badge&logo=nodedotjs)
-![JAVASCRIPT](https://img.shields.io/badge/%20JavaScript-141321?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/%20React-141321?style=for-the-badge&logo=React)
-![IOT](https://img.shields.io/badge/%20iot-141321?style=for-the-badge&logo=iot)
-![Typescript](https://img.shields.io/badge/typescript-141321?style=for-the-badge&logo=typescript)
-![AWS](https://img.shields.io/badge/AWS-141321?style=for-the-badge&logo=amazon-aws)
-![GoogleCloud](https://img.shields.io/badge/GoogleCloud-141321?style=for-the-badge&logo=google-cloud)
+<h1 align="left">TECNOLOGIA QUE DOMINO</h1>
 
+###
 
-**Ainda estudar:**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" width="52" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+</div>
 
-![DOCKER](https://img.shields.io/badge/%20docker-141321?style=for-the-badge&logo=docker)
-![MongoDB](https://img.shields.io/badge/%20MongoDB-141321?style=for-the-badge&logo=MongoDB)
-![kubernetes](https://img.shields.io/badge/kubernetes-141321.svg?&style=for-the-badge&logo=kubernetes)
+###
 
-## Redes sociais
-<a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-neves-da-silva-7a2a39173/">
-    <img src="https://img.shields.io/badge/linkedin%20-141321?style=for-the-badge&logo=linkedin" alt="linkedin JOÃO-MARCOS"/>
-</a>
-<a href="mailto:joaomarcosnina@gmail.com">
-  <img src="https://img.shields.io/badge/gmail%20-141321?style=for-the-badge&logo=gmail" alt="Gmail JOÃO-MARCOS"/>
-</a>
-<a href="mailto:joaomarcos_iga@hotmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-141321?style=for-the-badge&logo=microsoft-outlook"/>
-</a>
+<br clear="both">
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/joaomarcosns/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="joaomarcosnina@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img href="https://raw.githubusercontent.com/joaomarcosns/joaomarcosns/blob/output/snake.svg" alt="Snake animation" />
+
+###
