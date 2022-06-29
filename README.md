@@ -53,4 +53,6 @@
 
 ###
 
+![Snake animation](https://github.com/joaomarcosns/joaomarcosns/blob/output/github-contribution-grid-snake.svg)
+
 ###
